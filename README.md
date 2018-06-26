@@ -1,4 +1,4 @@
-Git'o lokalus konfiguravimas (teisingas vardas pavardė, el. paštas);
+```Git'o lokalus konfiguravimas (teisingas vardas pavardė, el. paštas);
 Naujos lokalios repositorijos sukūrimas;
 Du komitai (trys skirtingi failai su programinio kodo eilutėmis);
 Vieno failo ištrynimas ir komitas;
@@ -22,4 +22,4 @@ Forko repositorijos klonavimas;
 Komitas su namų darbų archyvu;
 Teisingos komitų žinutės;
 Pakeitimų supushinimas į GitHub;
-Pull requesto sukūrimas;
+Pull requesto sukūrimas;```
